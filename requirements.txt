@@ -8,3 +8,7 @@ python-dotenv>=1.0
 # --- pick your LLM provider(s) (all optional: the app also works fully offline) ---
 google-genai>=1.0
 openai>=1.40
+
+
+yt-dlp
+faster-whisper
