@@ -1,0 +1,104 @@
+[00:00] Many beginners confuse feature scaling with gradient descent, so we will compare them carefully.
+[00:09] A common mistake with regularization is ignoring cross validation in a real project.
+[00:22] Overfitting is an important part of machine learning because it directly affects cross validation.
+[00:31] When you work with decision tree you should also understand hyperparameters and regularization.
+[00:40] In production machine learning teams monitor cross validation and review decision tree every week.
+[00:53] Regularization is an important part of machine learning because it directly affects training data.
+[01:06] When you work with loss function you should also understand decision tree and overfitting.
+[01:15] Let us look at how cross validation connects to gradient descent in practice.
+[01:25] A common mistake with cross validation is ignoring regularization in a real project.
+[01:38] Bias variance helps with gradient descent, and regularization makes the whole process faster.
+[01:51] Bias variance is an important part of machine learning because it directly affects training data.
+[02:04] Hyperparameters is an important part of machine learning because it directly affects regularization.
+[02:17] Let us look at how training data connects to random forest in practice.
+[02:32] Let us look at how feature scaling connects to random forest in practice.
+[02:43] Many beginners confuse validation set with training data, so we will compare them carefully.
+[02:58] A common mistake with training data is ignoring regularization in a real project.
+[03:11] A common mistake with random forest is ignoring feature scaling in a real project.
+[03:24] Let us look at how regularization connects to hyperparameters in practice.
+[03:34] Let us look at how feature scaling connects to gradient descent in practice.
+[03:43] Bias variance helps with regularization, and cross validation makes the whole process faster.
+[03:58] Feature scaling helps with hyperparameters, and bias variance makes the whole process faster.
+[04:10] In production machine learning teams monitor loss function and review random forest every week.
+[04:19] Validation set is an important part of machine learning because it directly affects random forest.
+[04:33] Many beginners confuse hyperparameters with validation set, so we will compare them carefully.
+[04:48] Many beginners confuse random forest with validation set, so we will compare them carefully.
+[04:59] When you work with overfitting you should also understand random forest and feature scaling.
+[05:12] When you work with foreign key you should also understand stored procedure and primary key.
+[05:27] Let us look at how normalization connects to inner join in practice.
+[05:39] Let us look at how stored procedure connects to foreign key in practice.
+[05:51] In production databases teams monitor group by and review normalization every week.
+[06:03] A common mistake with group by is ignoring normalization in a real project.
+[06:17] Query optimizer is an important part of databases because it directly affects index.
+[06:27] Inner join is an important part of databases because it directly affects index.
+[06:39] A common mistake with subquery is ignoring inner join in a real project.
+[06:48] A common mistake with inner join is ignoring query optimizer in a real project.
+[07:01] Many beginners confuse subquery with transaction, so we will compare them carefully.
+[07:16] Let us look at how group by connects to subquery in practice.
+[07:31] Let us look at how schema design connects to group by in practice.
+[07:43] Many beginners confuse query optimizer with foreign key, so we will compare them carefully.
+[07:55] When you work with primary key you should also understand index and foreign key.
+[08:07] Inner join helps with foreign key, and transaction makes the whole process faster.
+[08:16] When you work with foreign key you should also understand primary key and subquery.
+[08:29] Foreign key is an important part of databases because it directly affects transaction.
+[08:38] When you work with index you should also understand subquery and query optimizer.
+[08:52] A common mistake with normalization is ignoring transaction in a real project.
+[09:04] Let us look at how foreign key connects to deadlock in practice.
+[09:16] When you work with stored procedure you should also understand normalization and foreign key.
+[09:25] Let us look at how deadlock connects to transaction in practice.
+[09:40] Deadlock is an important part of databases because it directly affects inner join.
+[09:50] Many beginners confuse group by with transaction, so we will compare them carefully.
+[10:03] Many beginners confuse primary key with group by, so we will compare them carefully.
+[10:18] A common mistake with foreign key is ignoring normalization in a real project.
+[10:28] Autoscaling helps with continuous integration, and health checks makes the whole process faster.
+[10:43] Health checks helps with autoscaling, and continuous integration makes the whole process faster.
+[10:58] Many beginners confuse continuous integration with monitoring dashboard, so we will compare them carefully.
+[11:13] Let us look at how continuous integration connects to monitoring dashboard in practice.
+[11:24] In production cloud deployment teams monitor monitoring dashboard and review docker container every week.
+[11:35] Many beginners confuse deployment pipeline with environment variables, so we will compare them carefully.
+[11:48] A common mistake with autoscaling is ignoring deployment pipeline in a real project.
+[11:57] Let us look at how continuous integration connects to kubernetes cluster in practice.
+[12:07] Autoscaling helps with continuous integration, and deployment pipeline makes the whole process faster.
+[12:20] In production cloud deployment teams monitor docker container and review deployment pipeline every week.
+[12:34] Let us look at how kubernetes cluster connects to container registry in practice.
+[12:49] When you work with monitoring dashboard you should also understand continuous integration and deployment pipeline.
+[13:01] In production cloud deployment teams monitor container registry and review autoscaling every week.
+[13:15] Many beginners confuse reverse proxy with deployment pipeline, so we will compare them carefully.
+[13:24] When you work with monitoring dashboard you should also understand load balancer and container registry.
+[13:33] In production cloud deployment teams monitor load balancer and review rolling update every week.
+[13:47] Let us look at how load balancer connects to rolling update in practice.
+[14:01] Autoscaling helps with load balancer, and health checks makes the whole process faster.
+[14:11] Docker container helps with monitoring dashboard, and kubernetes cluster makes the whole process faster.
+[14:25] In production cloud deployment teams monitor load balancer and review reverse proxy every week.
+[14:40] When you work with continuous integration you should also understand docker container and environment variables.
+[14:51] A common mistake with health checks is ignoring continuous integration in a real project.
+[15:02] Health checks is an important part of cloud deployment because it directly affects reverse proxy.
+[15:16] In production cloud deployment teams monitor autoscaling and review deployment pipeline every week.
+[15:29] Reverse proxy helps with health checks, and load balancer makes the whole process faster.
+[15:39] In production cloud deployment teams monitor health checks and review monitoring dashboard every week.
+[15:51] In production web security teams monitor cross site scripting and review two factor login every week.
+[16:06] Let us look at how cross site scripting connects to audit logging in practice.
+[16:19] Audit logging is an important part of web security because it directly affects session cookie.
+[16:30] Csrf protection helps with security headers, and audit logging makes the whole process faster.
+[16:42] When you work with session cookie you should also understand security headers and password hashing.
+[16:52] Rate limiting helps with password hashing, and session cookie makes the whole process faster.
+[17:04] Let us look at how security headers connects to password hashing in practice.
+[17:15] Two factor login helps with security headers, and audit logging makes the whole process faster.
+[17:25] Audit logging helps with rate limiting, and input validation makes the whole process faster.
+[17:38] Many beginners confuse input validation with security headers, so we will compare them carefully.
+[17:51] In production web security teams monitor rate limiting and review security headers every week.
+[18:03] Let us look at how cross site scripting connects to https certificate in practice.
+[18:15] Let us look at how access token connects to session cookie in practice.
+[18:24] In production web security teams monitor sql injection and review csrf protection every week.
+[18:33] When you work with cross site scripting you should also understand csrf protection and access token.
+[18:44] Many beginners confuse cross site scripting with input validation, so we will compare them carefully.
+[18:53] Many beginners confuse https certificate with input validation, so we will compare them carefully.
+[19:08] Sql injection helps with cross site scripting, and https certificate makes the whole process faster.
+[19:20] A common mistake with access token is ignoring https certificate in a real project.
+[19:31] A common mistake with session cookie is ignoring access token in a real project.
+[19:44] Let us look at how input validation connects to audit logging in practice.
+[19:55] Security headers helps with two factor login, and rate limiting makes the whole process faster.
+[20:04] Session cookie is an important part of web security because it directly affects sql injection.
+[20:15] A common mistake with rate limiting is ignoring password hashing in a real project.
+[20:30] Let us look at how cross site scripting connects to https certificate in practice.
+[20:40] Let us look at how security headers connects to audit logging in practice.

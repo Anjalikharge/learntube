@@ -1,0 +1,62 @@
+[
+  {
+    "name": "synthetic-demo",
+    "transcript_file": "eval/sample_transcript.txt",
+    "reference_summary": "The talk covers machine learning basics such as overfitting and regularization, database design with keys and joins, cloud deployment with docker and kubernetes, and web security practices like password hashing.",
+    "qa": [
+      {
+        "q": "What helps reduce overfitting?",
+        "answer_terms": [
+          "overfitting",
+          "regularization"
+        ]
+      },
+      {
+        "q": "How do inner joins relate to foreign keys?",
+        "answer_terms": [
+          "inner join",
+          "foreign key"
+        ]
+      },
+      {
+        "q": "What does a load balancer do in a kubernetes cluster?",
+        "answer_terms": [
+          "load balancer",
+          "kubernetes"
+        ]
+      },
+      {
+        "q": "Why hash passwords?",
+        "answer_terms": [
+          "password hashing"
+        ]
+      },
+      {
+        "q": "What is sql injection and input validation?",
+        "answer_terms": [
+          "sql injection",
+          "input validation"
+        ]
+      },
+      {
+        "q": "Explain gradient descent and the loss function",
+        "answer_terms": [
+          "gradient descent",
+          "loss function"
+        ]
+      },
+      {
+        "q": "What is database normalization?",
+        "answer_terms": [
+          "normalization"
+        ]
+      },
+      {
+        "q": "What are rolling updates?",
+        "answer_terms": [
+          "rolling update"
+        ]
+      }
+    ]
+  }
+]
